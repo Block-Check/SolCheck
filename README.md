@@ -1,5 +1,7 @@
 # SolCheck - B2B ML scam detection service
 
+__All SolCheck code repositories are private because it is cybersecurity and any publication of code can be used by scammers__
+
 ### Quick Start
 You can use our [documentation](https://solcheck.gitbook.io/docs-of-solcheck/) or follow this guide 
 
