@@ -25,10 +25,10 @@ Get your first response:
 
 ### Contacts
 
-https://app.solcheck.xyz
+[Site](https://app.solcheck.xyz)
 
-https://twitter.com/SolanaCheck
+[Twitter](https://twitter.com/SolanaCheck)
 
-solanacheck@gmail.com
+[Corporate email](mailto:solanacheck@gmail.com)
 
-vadimlarintech@gmail.com
+[CEO email](mailto:vadimlarintech@gmail.com)
